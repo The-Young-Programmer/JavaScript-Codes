@@ -13,7 +13,14 @@ The bow moves to and fro on the left side of the screen and, on the other side, 
 
 This game was developped using a web intetface i.e HTML, CSS and JavaScript.
 So this game can only be played on the web, but very soon an App will be cteated for this game, when its fully modified.
-- link to play the game: [click here](https://the-young-programmer.github.io/Archery-Game/)
+- **Version:**    1.1v
+- **Creator:** <a href="https://github.com/The-Young-Programmer/">Nemonet TYP</a>
+- **Demo**
+
+<img src="https://user-images.githubusercontent.com/79866006/220224482-80db7a4e-efdb-4d53-848b-feee81c04047.jpg" width="200" height="400"/>  <img src="https://user-images.githubusercontent.com/79866006/220224653-6ae43a50-2960-4476-b3a5-8c6de87138d7.jpg" width="200" height="400"/>  <img src="https://user-images.githubusercontent.com/79866006/220224768-df0293cc-8402-43d9-b079-2727e92a6313.jpg" width="200" height="400"/>
+
+
+
 
 ### Support 
 
