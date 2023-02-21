@@ -7,7 +7,7 @@ Chess is a board game between two players. It is sometimes called international 
 
 **Players:**	2
 
-**Version:**    1.0v
+**Version:**    1.3v
 
 **Skills required:** Strategy, tactics, observation
 
@@ -45,13 +45,26 @@ Pawns are unable to move backward on captures or moves. Upon reaching the other 
 </details>
 
 
+<details>
+<summary><b>Objectives</b></summary>
+ 
+<br>
+ 
+**Object of the game**
+ 
+The game is won when one king is in check and cannot avoid capture on the next move; this is called checkmate. 
+
+ A game also can end when a player, believing the situation to be hopeless, acknowledges defeat by resigning. 
+
+ There are three possible results in chess: win, lose, or draw.
+</details>
 
 
 
 
 
-
-
+<details>
+ <summary><b>Info</b></summary>
 
 
 I sacrifice a lot into this game before it works fine. 
@@ -61,3 +74,4 @@ But am also Happy it finally works out ☺ ☺
 Dont forget to comment..... cause no one is perfect and am subjected to corrections or upgrade. 
 
 Thank you all. 
+ </details>
