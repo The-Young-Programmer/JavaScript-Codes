@@ -1,0 +1,37 @@
+<!-- Created by The Young Programmer🎖-->
+
+<!DOCTYPE html>
+<html>
+    <head>    
+       <title>Archery Game</title>
+           <meta name="viewport" content="width=device-width, initial-scale=1" >
+       <meta charset="utf-8">
+       <link rel="stylesheet" href="style.css">
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    
+    </head>
+    <body>
+        <script>        
+        swal.fire({ title: 'Input your name',  input: 'text',  inputValidator: function(value) { return new Promise(function(resolve, reject) { if (value) { resolve(); } else { reject('pls input your name!.'); } }); } }).then(function(result) { swal.fire({ type: 'success', html: 'Welcome:' + result }); })        
+</script>
+        <div id="mainContainer">
+        <canvas id="myCanvas"></canvas>
+        <canvas id="animCanvas"></canvas>
+        <h1 id="score">0</h1>
+        <div id="showPoint">
+            <div id="timerDiv"></div>
+            <p id="arrs">&uarr;</p><span class="u">&uarr; +4</span>
+            
+        </div>
+        <div id="startMenu">
+            <h1 id="title"><span style="font-size:60px">A</span>RCHERY<br><span style="font-size:60px">G</span>AME</h1>
+                <h2>
+            <span style="font-size:14px">The Young Programmer  💻</span></h2><br />
+            <button>TAP TO START</button>
+            <h2><span id="best">0</span><br>Best</h2>
+        </div>
+    </div>
+    </body>
+    <script src="script.js"></script>
+</html>

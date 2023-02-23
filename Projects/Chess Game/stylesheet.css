@@ -1,0 +1,40 @@
+/* Created by NemoNet aka The Young Programmer 🏅*/
+  
+  
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSJiQ2_Py2XMMMOvHNSVHkpNZspIM1_6Ywg&usqp=CAU);
+    font-family: chess;
+    margin: 0; 
+}
+.square {
+    background: #afa;
+    display: inline-block;
+    border: 1px solid #fff;
+    text-align: center;
+    position: absolute;
+    cursor: pointer;
+}
+h1, h2 {
+  font-size:30px;
+  position:absolute;
+  top:10px;
+  text-align:center;
+  width:360px;
+  text-decoration:none;
+  background:#D8E6E1C7;
+  color:black ;
+  border-radius:10px;
+  font-family: 'Open Sans', sans-serif;
+}
+a {
+  font-size:25px;
+  position:absolute;
+  bottom:40px;
+  text-align:center;
+  width:360px;
+  text-decoration:none;
+  background:#D8E6E1C7;
+  color:black ;
+  border-radius:10px;
+  font-family: 'Open Sans', sans-serif;
+}
