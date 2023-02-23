@@ -17,13 +17,12 @@ Calculate problems in science, engineering, and mathematics.
 
 version.... 2.1.8
 
-Downloads ......... 
+Download Code:  [AI Calculator.zip](https://github.com/The-Young-Programmer/JavaScript-Codes/files/10814649/AI.Calculator.zip)
 
-Download size ..... 
 
 Offered by <a href="https://github.com/The-Young-Programmer/"> Nemonet The Young Programmer </a>
 
-Released on ..... 
+
 
 
 

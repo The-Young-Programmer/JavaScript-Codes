@@ -11,6 +11,8 @@ Chess is a board game between two players. It is sometimes called international 
 
 **Skills required:** Strategy, tactics, observation
 
+**Download Code:**  [Chess Game.zip](https://github.com/The-Young-Programmer/JavaScript-Codes/files/10814714/Chess.Game.zip)
+
 **Creator:** <a href="https://github.com/The-Young-Programmer/">Nemonet TYP</a>
 
 

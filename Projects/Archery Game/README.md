@@ -14,6 +14,7 @@ The bow moves to and fro on the left side of the screen and, on the other side, 
 This game was developped using a web intetface i.e HTML, CSS and JavaScript.
 So this game can only be played on the web, but very soon an App will be cteated for this game, when its fully modified.
 - **Version:**    1.1v
+- **Download Code:**  [Archery Game.zip](https://github.com/The-Young-Programmer/JavaScript-Codes/files/10814668/Archery.Game.zip)
 - **Creator:** <a href="https://github.com/The-Young-Programmer/">Nemonet TYP</a>
 - **Demo**
 
